@@ -1,12 +1,14 @@
 .choresText {
    color: green;
-   font-size: 2em 40px;
+   font-size: 20px;
+   font-style: italic;
    text-align: center;
-
+   font-family: "Lucida Console", "Courier New", monospace;
 }
 
 .choresHeading {
    color: black;
    text-decoration-line: underline;
    text-align: center;
+   font-family: "Lucida Console", "Courier New", monospace;
 }
